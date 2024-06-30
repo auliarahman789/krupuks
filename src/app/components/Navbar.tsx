@@ -42,7 +42,7 @@ const Navbar = ({ color }: { color: any }) => {
                 }
     `}
         >
-            <div style={{ background: `${color}` }} className='flex w-full fixed top-0 h-[80px] bg-[#d5bfaa] shadow-md backdrop-blur-md z-50 justify-center items-center'>
+            <div style={{ background: `${color}` }} className='flex w-full fixed top-0 h-[70px] bg-[#d5bfaa] shadow-md backdrop-blur-md z-50 justify-center items-center'>
 
                 <div className='flex w-full flex-col-1 justify-between gap-4 px-4'>
                     <div className='flex gap-3 items-center'>
@@ -70,7 +70,7 @@ const Navbar = ({ color }: { color: any }) => {
                                 width={200}
                                 height={200}
                                 alt={'logo'}
-                                className=' w-[90px] h-16 '
+                                className=' w-[80px] h-12 '
                             />
                         </a>
                     </div>
