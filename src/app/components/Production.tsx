@@ -74,7 +74,7 @@ function Production() {
                         <p className='text-black pt-3 text-justify'>
                             OK Store (OK  aka Oleh-oleh Keluarga) which was founded in 2011.
                             Became the first outlet to open in the tourist area with
-                            the concept of "ONE STOP SHOPPING" selling various Belitung souvenirs.
+                            the concept of &ldquo;ONE STOP SHOPPING&ldquo; selling various Belitung souvenirs.
                             Such as snacks, clothes, souvenirs and more.
                         </p>
                         <Image

@@ -37,7 +37,7 @@ function About() {
                         Belitung Island is surrounded by the sea, and going out to sea to fish
                         has become a unique place for locals to plan. So bidding farewell to the
                         classroom homework seawall became the choice of the unemployed teacher Huang.
-                        In order to support her husband's new fishing business, Teacher Zhang was
+                        In order to support her husband&lsquo;s new fishing business, Teacher Zhang was
                         also creative and processed the fish and shrimp into biscuit snacks. After
                         several practices and improvements, in 1970, their product manufacturing
                         industry began to be marketed as a family food industry. Both in terms of
@@ -53,16 +53,16 @@ function About() {
                         Relying on the unique resources of Belitung surrounded by the sea, it
                         has an inexhaustible and rich resource for producing delicious seafood.
                         In 1998, as the production and sales of crackers increased,
-                        "Family" brand was introduced as a product label for various
+                        &ldquo;Family&ldquo; brand was introduced as a product label for various
                         types of products. In order to adapt to the needs of the market,
                         cooperate and support the increase in production, and keep up
-                        with the pace of the local tourism industry, "Family" group has
+                        with the pace of the local tourism industry, &ldquo;Family&ldquo; group has
                         now opened a number of chain stores, and many local small food
                         retailers have also become good partners. Production and marketing
                         have organically become a complementary whole, providing space for
-                        the survival and development of "Family" brand. The name "Family"
-                        itself was inspired by the founder Huang Yatian's admiration for
-                        the Chinese motto "A harmonious family brings prosperity", which
+                        the survival and development of &ldquo;Family&ldquo; brand. The name &ldquo;Family&ldquo;
+                        itself was inspired by the founder Huang Yatian&lsquo;s admiration for
+                        the Chinese motto &ldquo;A harmonious family brings prosperity&ldquo;, which
                         means that the family will be united and harmonious for generations.
                         With a harmonious family, everything will turn into infinite beauty
                         and prosperity.
