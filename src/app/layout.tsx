@@ -11,6 +11,7 @@ const roboto = Roboto({
 export const metadata: Metadata = {
   title: "Kerupuk Keluarga",
   description: "Kerupuk Cap Keluarga, Belitung Best Cracker",
+
 };
 
 export default function RootLayout({

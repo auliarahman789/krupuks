@@ -1,12 +1,27 @@
-"use client"
-import React, { useState } from 'react'
+import React from 'react'
 import Navbar from './components/Navbar'
 import About from './components/About'
 import Introduction from './components/Introduction'
 import Production from './components/Production'
+import type { Metadata } from 'next'
 
+export const metadata: Metadata = {
+  title: 'utama',
+  description: 'halaman utama',
+  openGraph: {
+    title: 'page title',
+    url: 'kerupukkeluarga.vercel.app',
+    siteName: 'kerupuk keluarga',
+    images: [
+      {
+        url: '/indonesia.png',
+        width: 1280,
+        height: 800
+      }
+    ]
+  }
+}
 function Page() {
-  const [color, setColor] = useState('')
 
   return (
     <div id='#'>

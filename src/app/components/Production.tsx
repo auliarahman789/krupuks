@@ -2,6 +2,7 @@ import React from 'react'
 import Image from 'next/image';
 
 function Production() {
+
     return (
         <section className="lg:py-16" >
             <div>
